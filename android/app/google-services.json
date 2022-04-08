@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "528704416934",
+    "firebase_url": "https://tasbeehcounteraksiq.firebaseio.com",
+    "project_id": "tasbeehcounteraksiq",
+    "storage_bucket": "tasbeehcounteraksiq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528704416934:android:834d6345ed13dd08df5867",
+        "android_client_info": {
+          "package_name": "com.aksiq.tasbeehcounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528704416934-jihpmehtr5egaqpeeau3fb2jc94prjvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aksiq.tasbeehcounter",
+            "certificate_hash": "aaef051b5f4b937113111e903eb9309c73765a75"
+          }
+        },
+        {
+          "client_id": "528704416934-lgcfpf0qklhl1u0hsj6abetp8c2hbl4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aksiq.tasbeehcounter",
+            "certificate_hash": "43b614af8c755b6b5fa7f80f401e5fc1a612ded0"
+          }
+        },
+        {
+          "client_id": "528704416934-ule6tbcv0e7ith5iddfumpop42kdtod6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLOqXw9hX__Y4ZlgZrI1zUdqwZH7bKxqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528704416934-ule6tbcv0e7ith5iddfumpop42kdtod6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "528704416934-8vdr9ar0uto28a33benve1gi7pg6mlh2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aksiq.tasbeah"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
